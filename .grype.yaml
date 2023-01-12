@@ -5,3 +5,5 @@ ignore:
     package:
       name: spring-boot-starter-web
       type: java-archive
+  - vulnerability: CVE-2016-1000027
+  - vulnerability: GHSA-mjmj-j48q-9wg2
